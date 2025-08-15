@@ -2,7 +2,6 @@
   "name": "kimi-free-api",
   "version": "0.0.36",
   "description": "Kimi Free API Server",
-  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
